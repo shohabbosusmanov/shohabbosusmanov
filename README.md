@@ -25,8 +25,8 @@
 </div>
 <br/>
 <hr/>
-
-<br/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,c,python" />
 </div>
