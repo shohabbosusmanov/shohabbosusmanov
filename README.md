@@ -1,9 +1,10 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shohabbosusmanov.shohabbosusmanov" />
+<p align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=shohabbosusmanov.shohabbosusmanov" />
+</p>
 
 <p align="center">
-    <span> <img src = "https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="200" /> </span>
     <span> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=14F792&center=true&vCenter=true&width=500&height=60&lines=Hi+There!+%F0%9F%91%8B;+I'm+Shohabbos+Usmanov!;I%E2%80%99m+currently+learning%3A+Python" alt="Typing SVG" /></a> </span>
-    <span> <img src = "https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" width="200" /> </span>
+    <span> <img src = "https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=D46aQMTStnlCf7s6GPq67PFXzmWSTtPoQRtH60tacuo" width="150" /> </span>
 </p>
 <hr/>
 
