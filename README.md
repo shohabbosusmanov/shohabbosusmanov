@@ -1,9 +1,3 @@
-<style>
-    .logo {
-        text-decoration: none;
-    }
-</style>
-
 <p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shohabbosusmanov.shohabbosusmanov" />
 </p>
