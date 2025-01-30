@@ -9,7 +9,7 @@
 <hr/>
 
 <br/>
-<div align="center"> 
+<div align="center" style="text-decoration: none;"> 
   <a href="mailto:shohabbosusmanov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
