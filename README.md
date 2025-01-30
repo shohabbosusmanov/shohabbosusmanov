@@ -1,3 +1,9 @@
+<style>
+    .logo {
+        text-decoration: none;
+    }
+</style>
+
 <p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shohabbosusmanov.shohabbosusmanov" />
 </p>
@@ -9,7 +15,7 @@
 <hr/>
 
 <br/>
-<div align="center" style="text-decoration: none;"> 
+<div class="logo" align="center" > 
   <a href="mailto:shohabbosusmanov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
